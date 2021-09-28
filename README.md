@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Naveenans7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Naveenkumard
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning CSS ANd JAVAScript
+- 💞️ I’m looking to collaborate on any company to builed my career
+- 📫 How to reach me with twitter@Naveend01
 
 <!---
 Naveenans7/Naveenans7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
